@@ -1,0 +1,21 @@
+.contener
+{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+table
+{
+    border: 3px solid grey;
+    width: 800px;
+    min-height: 500px;
+    margin-top: 30px;
+}
+td
+{
+border: 3px solid grey;
+}
+th
+{
+border: 3xp solid grey;
+}
